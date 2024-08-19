@@ -37,6 +37,8 @@ In fact, more generally, there’s no possible way to split up a square into an 
 
 And yet, the proof of this theorem connects areas of mathematics in ways I never thought possible. This simple geometry problem draws from the far-reaching fields of algebraic number theory and graph theory to create an incredibly beautiful solution. So, join me, as we attempt to uncover the secrets behind Monsky’s theorem.
 
+This post is heavily inspired by [this](https://stanford.edu/~sfh/sumo_monsky.pdf) presentation from SUMO - if you would like to see a compressed version of the process we follow below, you can visit their lecture notes.
+
 ## 2. Exploration
 
 You might’ve noticed that the statement only talks about an odd number of triangles. What about an even number of triangles?
