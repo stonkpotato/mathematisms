@@ -124,7 +124,7 @@ These properties combined make the $$2$$-adic numbers (the real numbers with the
 
 The astute among you might have noticed a slight issue with our use of the $$2$$-adic metric, and that’s the fact that we’re assuming that $$a, b, c,$$ and $$d$$ are rational numbers. This isn’t necessarily a valid assumption, though - in fact, $$a$$ could very well be something like $$\frac{\sqrt{2}}{2}$$. So how are we supposed to use the $$2$$-adic norm now?
 
-Well, luckily for us, there’s a theorem that solves all of our problems. Essentially, the theorem states that there’s a unique norm over the real numbers that matches our desiblue $$2$$-adic norm for every rational number. You can think of this as a sort of “extension” of the $$2$$-adic norm from the rationals to the reals. The details of the proof are pretty complicated (way more than could fit into a single blog post) - if you’re up for the challenge, there’s a proof in Lang’s algebra.
+Well, luckily for us, there’s a theorem that solves all of our problems. Essentially, the theorem states that there’s a unique norm over the real numbers that matches our desired $$2$$-adic norm for every rational number. You can think of this as a sort of “extension” of the $$2$$-adic norm from the rationals to the reals. The details of the proof are pretty complicated (way more than could fit into a single blog post) - if you’re up for the challenge, there’s a proof in Lang’s algebra.
 
 So, how does this help us? Well, remember that we want to show that $$\|ad - bc\|$$ is not equal to $$\frac{2}{n}$$ for any odd $$n$$. Therefore, if we take the $$2$$-adic norm of both sides and show that those are not equal, we’re done!
 
